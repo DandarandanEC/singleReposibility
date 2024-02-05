@@ -1,0 +1,7 @@
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\bin\Debug\singleResponsibility.exe.config
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\bin\Debug\singleResponsibility.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\bin\Debug\singleResponsibility.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\obj\Debug\singleResponsibility.csproj.AssemblyReference.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\obj\Debug\singleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\obj\Debug\singleResponsibility.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\singleResponsibility\singleResponsibility\obj\Debug\singleResponsibility.pdb
